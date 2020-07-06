@@ -1,0 +1,27 @@
+{
+  "name": "simple-app-login",
+  "version": "1.0.0",
+  "description": "FrontEnd Pretest in PrivyId",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mininutes/simple-app-login.git"
+  },
+  "keywords": [
+    "React",
+    "OTP",
+    "Express"
+  ],
+  "author": "Sri Yunianita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mininutes/simple-app-login/issues"
+  },
+  "homepage": "https://github.com/mininutes/simple-app-login#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
